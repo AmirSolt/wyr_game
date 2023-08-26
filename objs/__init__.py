@@ -42,7 +42,8 @@ class Text:
             char_count += len(word)
             if char_count >= max_char_count:
                 n_text += word+" \n"
-            n_text += word+" "
+            else:
+                n_text += word+" "
             
         n_labels:list[pygame.Surface] = [
             self.font.render(t, True, self.color, self.bg_color)

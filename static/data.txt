@@ -1,0 +1,543 @@
+1. Would you rather have the ability to teleport anywhere or be able to read minds?
+2. Would you rather have the power of invisibility or the power to fly?
+3. Would you rather always have to speak your mind or never speak again?
+4. Would you rather live in a world without music or a world without movies?
+5. Would you rather always be 10 minutes late or always be 20 minutes early?
+6. Would you rather have a photographic memory or be able to forget anything you want?
+7. Would you rather be well-known for something great but die young or live a long life but remain unknown?
+8. Would you rather have the ability to time travel or the ability to see into the future?
+9. Would you rather have a personal chef or a personal assistant?
+10. Would you rather go skydiving or scuba diving?
+11. Would you rather have unlimited money or unlimited free time?
+12. Would you rather never be able to use the internet again or never be able to use a smartphone again?
+13. Would you rather have the power to heal others or the power to bring the dead back to life?
+14. Would you rather live in a house by the ocean or a cabin in the mountains?
+15. Would you rather live without air conditioning or without heating?
+16. Would you rather be able to speak all languages fluently or be an expert in every type of instrument?
+17. Would you rather have the ability to control fire or the ability to control water?
+18. Would you rather be able to see into the future or have the ability to change the past?
+19. Would you rather have the ability to breathe underwater or the ability to survive in extreme temperatures?
+20. Would you rather have a cat or a dog as a pet?
+21. Would you rather live in a world without books or a world without television?
+22. Would you rather have the ability to talk to animals or the ability to speak any foreign language?
+23. Would you rather always have to wear formal attire or always have to wear pajamas?
+24. Would you rather have the ability to freeze time or the ability to speed up time?
+25. Would you rather live in a small town or a big city?
+26. Would you rather have the power to control the weather or the power to control people's minds?
+27. Would you rather be able to fly like a bird or swim like a fish?
+28. Would you rather have a fairy godmother or a genie?
+29. Would you rather always have to eat spicy food or always have to eat bland food?
+30. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+31. Would you rather always have to take cold showers or never be able to take a shower again?
+32. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+33. Would you rather have a million dollars today or ten million dollars in ten years?
+34. Would you rather have a personal driver or a personal masseuse?
+35. Would you rather live in a world without laughter or a world without love?
+36. Would you rather have the ability to talk to the dead or the ability to see into the future?
+37. Would you rather have the ability to fly or have super strength?
+38. Would you rather have a personal trainer or a personal therapist?
+39. Would you rather always have to whisper or always have to shout?
+40. Would you rather be able to communicate with animals or speak every human language fluently?
+41. Would you rather go on a beach vacation or a mountain getaway?
+42. Would you rather be a famous actor or a famous musician?
+43. Would you rather have the ability to control your dreams or control your nightmares?
+44. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+45. Would you rather live without music or live without books?
+46. Would you rather have the ability to time travel to the past or to the future?
+47. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+48. Would you rather have a personal chef or a personal masseuse?
+49. Would you rather live in a treehouse or in an underground bunker?
+50. Would you rather speak every language fluently or be an expert in every academic subject?
+51. Would you rather have the ability to speak to plants or the ability to speak to animals?
+52. Would you rather always have to wake up early or always have to stay up late?
+53. Would you rather only be able to whisper or only be able to shout?
+54. Would you rather have the ability to control the weather or the ability to control traffic?
+55. Would you rather have the power to change your appearance or the power to change your personality?
+56. Would you rather live in a world without technology or a world without nature?
+57. Would you rather have the ability to become invisible or the ability to walk through walls?
+58. Would you rather be able to teleport anywhere instantly or be able to time travel?
+59. Would you rather have a private jet or a luxurious yacht?
+60. Would you rather live in a world without music or a world without art?
+61. Would you rather always have to wear high heels or always have to wear flip flops?
+62. Would you rather be able to control fire or have the ability to control electricity?
+63. Would you rather have a personal trainer or a personal chef?
+64. Would you rather always have to sleep on a hard surface or always have to sleep on a soft surface?
+65. Would you rather be famous for something bad or be forgotten forever?
+66. Would you rather be stranded on a deserted island with no one else or be stranded in a crowded city where no one understands you?
+67. Would you rather have the ability to speak any language fluently or have the ability to play any musical instrument flawlessly?
+68. Would you rather have the power to control the minds of others or the power to control the elements?
+69. Would you rather be able to run as fast as a cheetah or be able to jump as high as a kangaroo?
+70. Would you rather live without your sense of taste or your sense of touch?
+71. Would you rather always have to walk backward or always have to speak in rhymes?
+72. Would you rather have the ability to turn invisible at will or have the ability to see in complete darkness?
+73. Would you rather always have to wear a clown costume or always have to wear a superhero costume?
+74. Would you rather have the power of super speed or the power of super strength?
+75. Would you rather live in a world without internet or a world without television?
+76. Would you rather be able to breathe underwater or be able to withstand extreme temperatures?
+77. Would you rather have a personal assistant or a personal stylist?
+78. Would you rather always be too hot or always be too cold?
+79. Would you rather have the ability to control time or have the ability to control gravity?
+80. Would you rather have the ability to change your past or have the ability to predict the future?
+81. Would you rather live without the ability to smell or the ability to taste?
+82. Would you rather have a personal driver or a personal photographer?
+83. Would you rather always have to wear socks with sandals or always have to wear mismatched shoes?
+84. Would you rather have the power to heal any illness or the power to bring peace to the world?
+85. Would you rather live in a treehouse or live in a cave?
+86. Would you rather have the ability to control animals or have the ability to control the weather?
+87. Would you rather be able to speak every language fluently or be an incredible dancer?
+88. Would you rather go on a road trip or a cruise vacation?
+89. Would you rather have a personal chef or a personal trainer?
+90. Would you rather live in a world without books or a world without movies?
+91. Would you rather have the ability to control fire or have the ability to control water?
+92. Would you rather be able to see into the future or have the power to change the past?
+93. Would you rather have the ability to breathe underwater or the ability to survive in extreme heights?
+94. Would you rather have a cat or a dog as a pet?
+95. Would you rather live in a world without music or a world without technology?
+96. Would you rather have the power to control people's minds or the power to control the weather?
+97. Would you rather be able to fly like a bird or swim like a fish?
+98. Would you rather have a fairy godmother or a genie?
+99. Would you rather always have to eat spicy food or always have to eat bland food?
+100. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+101. Would you rather always have to take cold showers or never be able to take a shower again?
+102. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+103. Would you rather have a million dollars today or ten million dollars in ten years?
+104. Would you rather have a personal driver or a personal masseuse?
+105. Would you rather live in a world without laughter or a world without love?
+106. Would you rather have the ability to talk to the dead or the ability to see into the future?
+107. Would you rather have the ability to fly or have super strength?
+108. Would you rather have a personal trainer or a personal therapist?
+109. Would you rather always have to whisper or always have to shout?
+110. Would you rather be able to communicate with animals or speak every human language fluently?
+111. Would you rather go on a beach vacation or a mountain getaway?
+112. Would you rather be a famous actor or a famous musician?
+113. Would you rather have the ability to control your dreams or control your nightmares?
+114. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+115. Would you rather live without music or live without books?
+116. Would you rather have the ability to time travel to the past or to the future?
+117. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+118. Would you rather have a personal chef or a personal masseuse?
+119. Would you rather live in a treehouse or in an underground bunker?
+120. Would you rather speak every language fluently or be an expert in every academic subject?
+121. Would you rather have the ability to speak to plants or the ability to speak to animals?
+122. Would you rather always have to wake up early or always have to stay up late?
+123. Would you rather only be able to whisper or only be able to shout?
+124. Would you rather have the ability to control the weather or the ability to control traffic?
+125. Would you rather have the power to change your appearance or the power to change your personality?
+126. Would you rather live in a world without technology or a world without nature?
+127. Would you rather have the ability to become invisible or the ability to walk through walls?
+128. Would you rather be able to teleport anywhere instantly or be able to time travel?
+129. Would you rather have a private jet or a luxurious yacht?
+130. Would you rather live in a world without music or a world without art?
+131. Would you rather always have to wear high heels or always have to wear flip flops?
+132. Would you rather be able to control fire or have the ability to control electricity?
+133. Would you rather have a personal trainer or a personal chef?
+134. Would you rather always have to sleep on a hard surface or always have to sleep on a soft surface?
+135. Would you rather be famous for something bad or be forgotten forever?
+136. Would you rather be stranded on a deserted island with no one else or be stranded in a crowded city where no one understands you?
+137. Would you rather have the ability to speak any language fluently or have the ability to play any musical instrument flawlessly?
+138. Would you rather have the power to control the minds of others or the power to control the elements?
+139. Would you rather be able to run as fast as a cheetah or be able to jump as high as a kangaroo?
+140. Would you rather live without your sense of taste or your sense of touch?
+141. Would you rather always have to walk backward or always have to speak in rhymes?
+142. Would you rather have the ability to turn invisible at will or have the ability to see in complete darkness?
+143. Would you rather always have to wear a clown costume or always have to wear a superhero costume?
+144. Would you rather have the power of super speed or the power of super strength?
+145. Would you rather live in a world without internet or a world without television?
+146. Would you rather be able to breathe underwater or be able to withstand extreme temperatures?
+147. Would you rather have a personal assistant or a personal stylist?
+148. Would you rather always be too hot or always be too cold?
+149. Would you rather have the ability to control time or have the ability to control gravity?
+150. Would you rather have the ability to change your past or have the ability to predict the future?
+151. Would you rather live without the ability to smell or the ability to taste?
+152. Would you rather have a personal driver or a personal photographer?
+153. Would you rather always have to wear socks with sandals or always have to wear mismatched shoes?
+154. Would you rather have the power to heal any illness or the power to bring peace to the world?
+155. Would you rather live in a treehouse or live in a cave?
+156. Would you rather have the ability to control animals or have the ability to control the weather?
+157. Would you rather be able to speak every language fluently or be an incredible dancer?
+158. Would you rather go on a road trip or a cruise vacation?
+159. Would you rather have a personal chef or a personal trainer?
+160. Would you rather live in a world without books or a world without movies?
+161. Would you rather have the ability to control fire or have the ability to control water?
+162. Would you rather be able to see into the future or have the power to change the past?
+163. Would you rather have the ability to breathe underwater or the ability to survive in extreme heights?
+164. Would you rather have a cat or a dog as a pet?
+165. Would you rather live in a world without music or a world without technology?
+166. Would you rather have the power to control people's minds or the power to control the weather?
+167. Would you rather be able to fly like a bird or swim like a fish?
+168. Would you rather have a fairy godmother or a genie?
+169. Would you rather always have to eat spicy food or always have to eat bland food?
+170. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+171. Would you rather always have to take cold showers or never be able to take a shower again?
+172. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+173. Would you rather have a million dollars today or ten million dollars in ten years?
+174. Would you rather have a personal driver or a personal masseuse?
+175. Would you rather live in a world without laughter or a world without love?
+176. Would you rather have the ability to talk to the dead or the ability to see into the future?
+177. Would you rather have the ability to fly or have super strength?
+178. Would you rather have a personal trainer or a personal therapist?
+179. Would you rather always have to whisper or always have to shout?
+180. Would you rather be able to communicate with animals or speak every human language fluently?
+181. Would you rather go on a beach vacation or a mountain getaway?
+182. Would you rather be a famous actor or a famous musician?
+183. Would you rather have the ability to control your dreams or control your nightmares?
+184. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+185. Would you rather live without music or live without books?
+186. Would you rather have the ability to time travel to the past or to the future?
+187. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+188. Would you rather have a personal chef or a personal masseuse?
+189. Would you rather live in a treehouse or in an underground bunker?
+190. Would you rather speak every language fluently or be an expert in every academic subject?
+191. Would you rather have the ability to speak to plants or the ability to speak to animals?
+192. Would you rather always have to wake up early or always have to stay up late?
+193. Would you rather only be able to whisper or only be able to shout?
+194. Would you rather have the ability to control the weather or the ability to control traffic?
+195. Would you rather have the power to change your appearance or the power to change your personality?
+196. Would you rather live in a world without technology or a world without nature?
+197. Would you rather have the ability to become invisible or the ability to walk through walls?
+198. Would you rather be able to teleport anywhere instantly or be able to time travel?
+199. Would you rather have a private jet or a luxurious yacht?
+200. Would you rather live in a world without music or a world without art?
+201. Would you rather always have to wear high heels or always have to wear flip flops?
+202. Would you rather be able to control fire or have the ability to control electricity?
+203. Would you rather have a personal trainer or a personal chef?
+204. Would you rather always have to sleep on a hard surface or always have to sleep on a soft surface?
+205. Would you rather be famous for something bad or be forgotten forever?
+206. Would you rather be stranded on a deserted island with no one else or be stranded in a crowded city where no one understands you?
+207. Would you rather have the ability to speak any language fluently or have the ability to play any musical instrument flawlessly?
+208. Would you rather have the power to control the minds of others or the power to control the elements?
+209. Would you rather be able to run as fast as a cheetah or be able to jump as high as a kangaroo?
+210. Would you rather live without your sense of taste or your sense of touch?
+211. Would you rather always have to walk backward or always have to speak in rhymes?
+212. Would you rather have the ability to turn invisible at will or have the ability to see in complete darkness?
+213. Would you rather always have to wear a clown costume or always have to wear a superhero costume?
+214. Would you rather have the power of super speed or the power of super strength?
+215. Would you rather live in a world without internet or a world without television?
+216. Would you rather be able to breathe underwater or be able to withstand extreme temperatures?
+217. Would you rather have a personal assistant or a personal stylist?
+218. Would you rather always be too hot or always be too cold?
+219. Would you rather have the ability to control time or have the ability to control gravity?
+220. Would you rather have the ability to change your past or have the ability to predict the future?
+221. Would you rather live without the ability to smell or the ability to taste?
+222. Would you rather have a personal driver or a personal photographer?
+223. Would you rather always have to wear socks with sandals or always have to wear mismatched shoes?
+224. Would you rather have the power to heal any illness or the power to bring peace to the world?
+225. Would you rather live in a treehouse or live in a cave?
+226. Would you rather have the ability to control animals or have the ability to control the weather?
+227. Would you rather be able to speak every language fluently or be an incredible dancer?
+228. Would you rather go on a road trip or a cruise vacation?
+229. Would you rather have a personal chef or a personal trainer?
+230. Would you rather live in a world without books or a world without movies?
+231. Would you rather have the ability to control fire or have the ability to control water?
+232. Would you rather be able to see into the future or have the power to change the past?
+233. Would you rather have the ability to breathe underwater or the ability to survive in extreme heights?
+234. Would you rather have a cat or a dog as a pet?
+235. Would you rather live in a world without music or a world without technology?
+236. Would you rather have the power to control people's minds or the power to control the weather?
+237. Would you rather be able to fly like a bird or swim like a fish?
+238. Would you rather have a fairy godmother or a genie?
+239. Would you rather always have to eat spicy food or always have to eat bland food?
+240. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+241. Would you rather always have to take cold showers or never be able to take a shower again?
+242. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+243. Would you rather have a million dollars today or ten million dollars in ten years?
+244. Would you rather have a personal driver or a personal masseuse?
+245. Would you rather live in a world without laughter or a world without love?
+246. Would you rather have the ability to talk to the dead or the ability to see into the future?
+247. Would you rather have the ability to fly or have super strength?
+248. Would you rather have a personal trainer or a personal therapist?
+249. Would you rather always have to whisper or always have to shout?
+250. Would you rather be able to communicate with animals or speak every human language fluently?
+251. Would you rather go on a beach vacation or a mountain getaway?
+252. Would you rather be a famous actor or a famous musician?
+253. Would you rather have the ability to control your dreams or control your nightmares?
+254. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+255. Would you rather live without music or live without books?
+256. Would you rather have the ability to time travel to the past or to the future?
+257. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+258. Would you rather have a personal chef or a personal masseuse?
+259. Would you rather live in a treehouse or in an underground bunker?
+260. Would you rather speak every language fluently or be an expert in every academic subject?
+261. Would you rather have the ability to speak to plants or the ability to speak to animals?
+262. Would you rather always have to wake up early or always have to stay up late?
+263. Would you rather only be able to whisper or only be able to shout?
+264. Would you rather have the ability to control the weather or the ability to control traffic?
+265. Would you rather have the power to change your appearance or the power to change your personality?
+266. Would you rather live in a world without technology or a world without nature?
+267. Would you rather have the ability to become invisible or the ability to walk through walls?
+268. Would you rather be able to teleport anywhere instantly or be able to time travel?
+269. Would you rather have a private jet or a luxurious yacht?
+270. Would you rather live in a world without music or a world without art?
+271. Would you rather always have to wear high heels or always have to wear flip flops?
+272. Would you rather be able to control fire or have the ability to control electricity?
+273. Would you rather have a personal trainer or a personal chef?
+274. Would you rather always have to sleep on a hard surface or always have to sleep on a soft surface?
+275. Would you rather be famous for something bad or be forgotten forever?
+276. Would you rather be stranded on a deserted island with no one else or be stranded in a crowded city where no one understands you?
+277. Would you rather have the ability to speak any language fluently or have the ability to play any musical instrument flawlessly?
+278. Would you rather have the power to control the minds of others or the power to control the elements?
+279. Would you rather be able to run as fast as a cheetah or be able to jump as high as a kangaroo?
+280. Would you rather live without your sense of taste or your sense of touch?
+281. Would you rather always have to walk backward or always have to speak in rhymes?
+282. Would you rather have the ability to turn invisible at will or have the ability to see in complete darkness?
+283. Would you rather always have to wear a clown costume or always have to wear a superhero costume?
+284. Would you rather have the power of super speed or the power of super strength?
+285. Would you rather live in a world without internet or a world without television?
+286. Would you rather be able to breathe underwater or be able to withstand extreme temperatures?
+287. Would you rather have a personal assistant or a personal stylist?
+288. Would you rather always be too hot or always be too cold?
+289. Would you rather have the ability to control time or have the ability to control gravity?
+290. Would you rather have the ability to change your past or have the ability to predict the future?
+291. Would you rather live without the ability to smell or the ability to taste?
+292. Would you rather have a personal driver or a personal photographer?
+293. Would you rather always have to wear socks with sandals or always have to wear mismatched shoes?
+294. Would you rather have the power to heal any illness or the power to bring peace to the world?
+295. Would you rather live in a treehouse or live in a cave?
+296. Would you rather have the ability to control animals or have the ability to control the weather?
+297. Would you rather be able to speak every language fluently or be an incredible dancer?
+298. Would you rather go on a road trip or a cruise vacation?
+299. Would you rather have a personal chef or a personal trainer?
+300. Would you rather live in a world without books or a world without movies?
+301. Would you rather have the ability to control fire or have the ability to control water?
+302. Would you rather be able to see into the future or have the power to change the past?
+303. Would you rather have the ability to breathe underwater or the ability to survive in extreme heights?
+304. Would you rather have a cat or a dog as a pet?
+305. Would you rather live in a world without music or a world without technology?
+306. Would you rather have the power to control people's minds or the power to control the weather?
+307. Would you rather be able to fly like a bird or swim like a fish?
+308. Would you rather have a fairy godmother or a genie?
+309. Would you rather always have to eat spicy food or always have to eat bland food?
+310. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+311. Would you rather always have to take cold showers or never be able to take a shower again?
+312. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+313. Would you rather have a million dollars today or ten million dollars in ten years?
+314. Would you rather have a personal driver or a personal masseuse?
+315. Would you rather live in a world without laughter or a world without love?
+316. Would you rather have the ability to talk to the dead or the ability to see into the future?
+317. Would you rather have the ability to fly or have super strength?
+318. Would you rather have a personal trainer or a personal therapist?
+319. Would you rather always have to whisper or always have to shout?
+320. Would you rather be able to communicate with animals or speak every human language fluently?
+321. Would you rather go on a beach vacation or a mountain getaway?
+322. Would you rather be a famous actor or a famous musician?
+323. Would you rather have the ability to control your dreams or control your nightmares?
+324. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+325. Would you rather live without music or live without books?
+326. Would you rather have the ability to time travel to the past or to the future?
+327. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+328. Would you rather have a personal chef or a personal masseuse?
+329. Would you rather live in a treehouse or in an underground bunker?
+330. Would you rather speak every language fluently or be an expert in every academic subject?
+331. Would you rather have the ability to speak to plants or the ability to speak to animals?
+332. Would you rather always have to wake up early or always have to stay up late?
+333. Would you rather only be able to whisper or only be able to shout?
+334. Would you rather have the ability to control the weather or the ability to control traffic?
+335. Would you rather have the power to change your appearance or the power to change your personality?
+336. Would you rather live in a world without technology or a world without nature?
+337. Would you rather have the ability to become invisible or the ability to walk through walls?
+338. Would you rather be able to teleport anywhere instantly or be able to time travel?
+339. Would you rather have a private jet or a luxurious yacht?
+340. Would you rather live in a world without music or a world without art?
+341. Would you rather always have to wear high heels or always have to wear flip flops?
+342. Would you rather be able to control fire or have the ability to control electricity?
+343. Would you rather have a personal trainer or a personal chef?
+344. Would you rather always have to sleep on a hard surface or always have to sleep on a soft surface?
+345. Would you rather be famous for something bad or be forgotten forever?
+346. Would you rather be stranded on a deserted island with no one else or be stranded in a crowded city where no one understands you?
+347. Would you rather have the ability to speak any language fluently or have the ability to play any musical instrument flawlessly?
+348. Would you rather have the power to control the minds of others or the power to control the elements?
+349. Would you rather be able to run as fast as a cheetah or be able to jump as high as a kangaroo?
+350. Would you rather live without your sense of taste or your sense of touch?
+351. Would you rather always have to walk backward or always have to speak in rhymes?
+352. Would you rather have the ability to turn invisible at will or have the ability to see in complete darkness?
+353. Would you rather always have to wear a clown costume or always have to wear a superhero costume?
+354. Would you rather have the power of super speed or the power of super strength?
+355. Would you rather live in a world without internet or a world without television?
+356. Would you rather be able to breathe underwater or be able to withstand extreme temperatures?
+357. Would you rather have a personal assistant or a personal stylist?
+358. Would you rather always be too hot or always be too cold?
+359. Would you rather have the ability to control time or have the ability to control gravity?
+360. Would you rather have the ability to change your past or have the ability to predict the future?
+361. Would you rather live without the ability to smell or the ability to taste?
+362. Would you rather have a personal driver or a personal photographer?
+363. Would you rather always have to wear socks with sandals or always have to wear mismatched shoes?
+364. Would you rather have the power to heal any illness or the power to bring peace to the world?
+365. Would you rather live in a treehouse or live in a cave?
+366. Would you rather have the ability to control animals or have the ability to control the weather?
+367. Would you rather be able to speak every language fluently or be an incredible dancer?
+368. Would you rather go on a road trip or a cruise vacation?
+369. Would you rather have a personal chef or a personal trainer?
+370. Would you rather live in a world without books or a world without movies?
+371. Would you rather have the ability to control fire or have the ability to control water?
+372. Would you rather be able to see into the future or have the power to change the past?
+373. Would you rather have the ability to breathe underwater or the ability to survive in extreme heights?
+374. Would you rather have a cat or a dog as a pet?
+375. Would you rather live in a world without music or a world without technology?
+376. Would you rather have the power to control people's minds or the power to control the weather?
+377. Would you rather be able to fly like a bird or swim like a fish?
+378. Would you rather have a fairy godmother or a genie?
+379. Would you rather always have to eat spicy food or always have to eat bland food?
+380. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+381. Would you rather always have to take cold showers or never be able to take a shower again?
+382. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+383. Would you rather have a million dollars today or ten million dollars in ten years?
+384. Would you rather have a personal driver or a personal masseuse?
+385. Would you rather live in a world without laughter or a world without love?
+386. Would you rather have the ability to talk to the dead or the ability to see into the future?
+387. Would you rather have the ability to fly or have super strength?
+388. Would you rather have a personal trainer or a personal therapist?
+389. Would you rather always have to whisper or always have to shout?
+390. Would you rather be able to communicate with animals or speak every human language fluently?
+391. Would you rather go on a beach vacation or a mountain getaway?
+392. Would you rather be a famous actor or a famous musician?
+393. Would you rather have the ability to control your dreams or control your nightmares?
+394. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+395. Would you rather live without music or live without books?
+396. Would you rather have the ability to time travel to the past or to the future?
+397. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+398. Would you rather have a personal chef or a personal masseuse?
+399. Would you rather live in a treehouse or in an underground bunker?
+400. Would you rather speak every language fluently or be an expert in every academic subject?
+401. Would you rather have the ability to speak to plants or the ability to speak to animals?
+402. Would you rather always have to wake up early or always have to stay up late?
+403. Would you rather only be able to whisper or only be able to shout?
+404. Would you rather have the ability to control the weather or the ability to control traffic?
+405. Would you rather have the power to change your appearance or the power to change your personality?
+406. Would you rather live in a world without technology or a world without nature?
+407. Would you rather have the ability to become invisible or the ability to walk through walls?
+408. Would you rather be able to teleport anywhere instantly or be able to time travel?
+409. Would you rather have a private jet or a luxurious yacht?
+410. Would you rather live in a world without music or a world without art?
+411. Would you rather always have to wear high heels or always have to wear flip flops?
+412. Would you rather be able to control fire or have the ability to control electricity?
+413. Would you rather have a personal trainer or a personal chef?
+414. Would you rather always have to sleep on a hard surface or always have to sleep on a soft surface?
+415. Would you rather be famous for something bad or be forgotten forever?
+416. Would you rather be stranded on a deserted island with no one else or be stranded in a crowded city where no one understands you?
+417. Would you rather have the ability to speak any language fluently or have the ability to play any musical instrument flawlessly?
+418. Would you rather have the power to control the minds of others or the power to control the elements?
+419. Would you rather be able to run as fast as a cheetah or be able to jump as high as a kangaroo?
+420. Would you rather live without your sense of taste or your sense of touch?
+421. Would you rather always have to walk backward or always have to speak in rhymes?
+422. Would you rather have the ability to turn invisible at will or have the ability to see in complete darkness?
+423. Would you rather always have to wear a clown costume or always have to wear a superhero costume?
+424. Would you rather have the power of super speed or the power of super strength?
+425. Would you rather live in a world without internet or a world without television?
+426. Would you rather be able to breathe underwater or be able to withstand extreme temperatures?
+427. Would you rather have a personal assistant or a personal stylist?
+428. Would you rather always be too hot or always be too cold?
+429. Would you rather have the ability to control time or have the ability to control gravity?
+430. Would you rather have the ability to change your past or have the ability to predict the future?
+431. Would you rather live without the ability to smell or the ability to taste?
+432. Would you rather have a personal driver or a personal photographer?
+433. Would you rather always have to wear socks with sandals or always have to wear mismatched shoes?
+434. Would you rather have the power to heal any illness or the power to bring peace to the world?
+435. Would you rather live in a treehouse or live in a cave?
+436. Would you rather have the ability to control animals or have the ability to control the weather?
+437. Would you rather be able to speak every language fluently or be an incredible dancer?
+438. Would you rather go on a road trip or a cruise vacation?
+439. Would you rather have a personal chef or a personal trainer?
+440. Would you rather live in a world without books or a world without movies?
+441. Would you rather have the ability to control fire or have the ability to control water?
+442. Would you rather be able to see into the future or have the power to change the past?
+443. Would you rather have the ability to breathe underwater or the ability to survive in extreme heights?
+444. Would you rather have a cat or a dog as a pet?
+445. Would you rather live in a world without music or a world without technology?
+446. Would you rather have the power to control people's minds or the power to control the weather?
+447. Would you rather be able to fly like a bird or swim like a fish?
+448. Would you rather have a fairy godmother or a genie?
+449. Would you rather always have to eat spicy food or always have to eat bland food?
+450. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+451. Would you rather always have to take cold showers or never be able to take a shower again?
+452. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+453. Would you rather have a million dollars today or ten million dollars in ten years?
+454. Would you rather have a personal driver or a personal masseuse?
+455. Would you rather live in a world without laughter or a world without love?
+456. Would you rather have the ability to talk to the dead or the ability to see into the future?
+457. Would you rather have the ability to fly or have super strength?
+458. Would you rather have a personal trainer or a personal therapist?
+459. Would you rather always have to whisper or always have to shout?
+460. Would you rather be able to communicate with animals or speak every human language fluently?
+461. Would you rather go on a beach vacation or a mountain getaway?
+462. Would you rather be a famous actor or a famous musician?
+463. Would you rather have the ability to control your dreams or control your nightmares?
+464. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+465. Would you rather live without music or live without books?
+466. Would you rather have the ability to time travel to the past or to the future?
+467. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+468. Would you rather have a personal chef or a personal masseuse?
+469. Would you rather live in a treehouse or in an underground bunker?
+470. Would you rather speak every language fluently or be an expert in every academic subject?
+471. Would you rather have the ability to speak to plants or the ability to speak to animals?
+472. Would you rather always have to wake up early or always have to stay up late?
+473. Would you rather only be able to whisper or only be able to shout?
+474. Would you rather have the ability to control the weather or the ability to control traffic?
+475. Would you rather have the power to change your appearance or the power to change your personality?
+476. Would you rather live in a world without technology or a world without nature?
+477. Would you rather have the ability to become invisible or the ability to walk through walls?
+478. Would you rather be able to teleport anywhere instantly or be able to time travel?
+479. Would you rather have a private jet or a luxurious yacht?
+480. Would you rather live in a world without music or a world without art?
+481. Would you rather always have to wear high heels or always have to wear flip flops?
+482. Would you rather be able to control fire or have the ability to control electricity?
+483. Would you rather have a personal trainer or a personal chef?
+484. Would you rather always have to sleep on a hard surface or always have to sleep on a soft surface?
+485. Would you rather be famous for something bad or be forgotten forever?
+486. Would you rather be stranded on a deserted island with no one else or be stranded in a crowded city where no one understands you?
+487. Would you rather have the ability to speak any language fluently or have the ability to play any musical instrument flawlessly?
+488. Would you rather have the power to control the minds of others or the power to control the elements?
+489. Would you rather be able to run as fast as a cheetah or be able to jump as high as a kangaroo?
+490. Would you rather live without your sense of taste or your sense of touch?
+491. Would you rather always have to walk backward or always have to speak in rhymes?
+492. Would you rather have the ability to turn invisible at will or have the ability to see in complete darkness?
+493. Would you rather always have to wear a clown costume or always have to wear a superhero costume?
+494. Would you rather have the power of super speed or the power of super strength?
+495. Would you rather live in a world without internet or a world without television?
+496. Would you rather be able to breathe underwater or be able to withstand extreme temperatures?
+497. Would you rather have a personal assistant or a personal stylist?
+498. Would you rather always be too hot or always be too cold?
+499. Would you rather have the ability to control time or have the ability to control gravity?
+500. Would you rather have the ability to change your past or have the ability to predict the future?
+501. Would you rather live without the ability to smell or the ability to taste?
+502. Would you rather have a personal driver or a personal photographer?
+503. Would you rather always have to wear socks with sandals or always have to wear mismatched shoes?
+504. Would you rather have the power to heal any illness or the power to bring peace to the world?
+505. Would you rather live in a treehouse or live in a cave?
+506. Would you rather have the ability to control animals or have the ability to control the weather?
+507. Would you rather be able to speak every language fluently or be an incredible dancer?
+508. Would you rather go on a road trip or a cruise vacation?
+509. Would you rather have a personal chef or a personal trainer?
+510. Would you rather live in a world without books or a world without movies?
+511. Would you rather have the ability to control fire or have the ability to control water?
+512. Would you rather be able to see into the future or have the power to change the past?
+513. Would you rather have the ability to breathe underwater or the ability to survive in extreme heights?
+514. Would you rather have a cat or a dog as a pet?
+515. Would you rather live in a world without music or a world without technology?
+516. Would you rather have the power to control people's minds or the power to control the weather?
+517. Would you rather be able to fly like a bird or swim like a fish?
+518. Would you rather have a fairy godmother or a genie?
+519. Would you rather always have to eat spicy food or always have to eat bland food?
+520. Would you rather be able to breathe fire like a dragon or have the strength of a gorilla?
+521. Would you rather always have to take cold showers or never be able to take a shower again?
+522. Would you rather be invisible for a day or be able to read other people's thoughts for a day?
+523. Would you rather have a million dollars today or ten million dollars in ten years?
+524. Would you rather have a personal driver or a personal masseuse?
+525. Would you rather live in a world without laughter or a world without love?
+526. Would you rather have the ability to talk to the dead or the ability to see into the future?
+527. Would you rather have the ability to fly or have super strength?
+528. Would you rather have a personal trainer or a personal therapist?
+529. Would you rather always have to whisper or always have to shout?
+530. Would you rather be able to communicate with animals or speak every human language fluently?
+531. Would you rather go on a beach vacation or a mountain getaway?
+532. Would you rather be a famous actor or a famous musician?
+533. Would you rather have the ability to control your dreams or control your nightmares?
+534. Would you rather always have to eat your least favorite food or never be able to eat your favorite food again?
+535. Would you rather live without music or live without books?
+536. Would you rather have the ability to time travel to the past or to the future?
+537. Would you rather have the power to make yourself invisible or the power to make yourself teleport?
+538. Would you rather have a personal chef or a personal masseuse?
+539. Would you rather live in a treehouse or in an underground bunker?
+540. Would you rather speak every language fluently or be an expert in every academic subject?
+541. Would you rather have the ability to speak to plants or the ability to speak to animals?
+542. Would you rather always have to wake up early or always have to stay up late?
+543. Would you rather only be able to whisper or only be able to shout?
