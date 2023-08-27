@@ -42,10 +42,12 @@ def game():
 
     running = True
     while running:
-        if len(tiktokEvents) > 0:
+        
+        if len(tiktokEvents) > 0 and not wyr.is_paused:
             print(f" events:{len(tiktokEvents)} votesA:{votesA} votesB:{votesB}")
-            wyr.update_votes(votesA, votesB)
+            wyr.donate_event(votesA, votesB)
             tiktokEvents.pop()
+            
             
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -70,7 +72,7 @@ def game():
 
 
 
-client: TikTokLiveClient = TikTokLiveClient(unique_id="@crece.sara.follo")
+client: TikTokLiveClient = TikTokLiveClient(unique_id="@mia_asmr_planet")
 
 class GiftId:
     rose = 5655
