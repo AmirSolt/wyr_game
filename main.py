@@ -70,9 +70,9 @@ def game():
 
 
 
+# wwyrpick
 
-
-client: TikTokLiveClient = TikTokLiveClient(unique_id="@mia_asmr_planet")
+client: TikTokLiveClient = TikTokLiveClient(unique_id="@wwyrpick")
 
 class GiftId:
     rose = 5655

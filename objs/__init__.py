@@ -23,6 +23,9 @@ class Text:
     
     def set_font_size(self, font_size:int):
         self.font_size = font_size
+        self.font:pygame.font.Font = pygame.font.Font(config.FONT_PATH, font_size)
+        self.labels:list[pygame.Surface] = self.__get_labels(self.text)
+        self.label_rects:list[pygame.Rect] = self.__get_rects()
     
     def update(self, text:str, color:tuple[int,int,int]=(0,0,0), bg_color:tuple[int,int,int]=(255,255,255) ):
         self.text:str = text
@@ -146,6 +149,7 @@ class WYR:
     
     
     def start_event(self):
+        self.is_paused = False
         self.__reset_prompt()
         self.prompt1.debloat_font_size()
         self.prompt2.debloat_font_size()
